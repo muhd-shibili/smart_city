@@ -17,7 +17,7 @@ class AddressScreen extends StatefulWidget implements AutoRouteWrapper {
     required this.name,
     super.key, required this.number, required this.email, required this.passWord,
   });
-
+// trial
   final String name;
   final String number;
   final String email;
